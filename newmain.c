@@ -64,6 +64,10 @@
 
 
 #include <xc.h>
+#include "INT.h"
+
+
+#define _XTAL_FREQ 64000000//64MHz
 
 void main(void) {
     

@@ -18,6 +18,8 @@
                    displayName="Source Files"
                    projectFiles="true">
       <itemPath>newmain.c</itemPath>
+      <itemPath>INT.c</itemPath>
+      <itemPath>INT.h</itemPath>
     </logicalFolder>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
